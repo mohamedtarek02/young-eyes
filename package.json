@@ -10,7 +10,9 @@
   "dependencies": {
     "@mdi/font": "^6.7.96",
     "core-js": "^3.6.5",
+    "express": "^4.18.1",
     "normalize.css": "^8.0.1",
+    "serve-static": "^1.15.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vue-wow": "^1.2.0",
