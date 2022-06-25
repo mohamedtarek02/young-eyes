@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "Start": "node server.js"
+    "Start": "node index.js"
   },
   "dependencies": {
     "@mdi/font": "^6.7.96",
