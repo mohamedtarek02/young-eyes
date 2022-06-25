@@ -18,9 +18,9 @@
             </h2>
           </v-card>
         </v-col>
-        <v-col sm="12" md="5">
+        <v-col sm="12" md="5" class="">
           <v-card
-            class="mx-auto pa-2 ma-4"
+            class="mx-auto pa-2 mx-4 mt-4 mb-12"
             max-width="344"
             min-height="355px"
             elevation="3"
