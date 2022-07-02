@@ -2,7 +2,7 @@
 
 Live site https://young-eyes.herokuapp.com
 
-git clone https://github.com/alaa5571/vue-design-site.git
+git clone https://github.com/mohamedtarek02/young-eyes.git
 
 
 ## About project 
