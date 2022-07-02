@@ -1,5 +1,10 @@
 # young-eyes
 
+Live site https://young-eyes.herokuapp.com
+
+git clone https://github.com/alaa5571/vue-design-site.git
+
+
 ## About project 
 this is a demo project for news, using the animation to display the text during client scrolling. A responsive and SPA website.
 
