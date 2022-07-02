@@ -1,5 +1,8 @@
 # young-eyes
 
+##About project 
+this is a demo project for news, using the animation to display the text during client scrolling. A responsive and SPA website.
+
 ## Project setup
 ```
 npm install
